@@ -17,7 +17,8 @@
         "colors": "^1.1.2",
         "copyfiles": "^1.2.0",
         "cordova-to-phonegap-build": "^1.0.1",
-        "delete": "^1.1.0"
+        "delete": "^1.1.0",
+        "moment": "^2.22.2"
     },
     "directories": {
         "lib": "lib"
@@ -25,7 +26,7 @@
     "devDependencies": {},
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/nahim-alhyane/ionic-to-phonegap-build.git"
+        "url": "git+https://github.com/Sunilchhipa/ionic-to-phonegap-build.git"
     },
     "keywords": [
         "ionic",
@@ -34,7 +35,7 @@
         "phonegap-build"
     ],
     "bugs": {
-        "url": "https://github.com/nahim-alhyane/ionic-to-phonegap-build/issues"
+        "url": "https://github.com/Sunilchhipa/ionic-to-phonegap-build/issues"
     },
-    "homepage": "https://github.com/nahim-alhyane/ionic-to-phonegap-build#readme"
+    "homepage": "https://github.com/Sunilchhipa/ionic-to-phonegap-build#readme"
 }
