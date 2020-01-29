@@ -17,6 +17,7 @@
         "colors": "^1.1.2",
         "copyfiles": "^1.2.0",
         "cordova-to-phonegap-build": "^1.0.1",
+        "phonegap-build-api": "^1.0.0",
         "delete": "^1.1.0",
         "moment": "^2.22.2"
     },
